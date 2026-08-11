@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-📊 **Total Problems Solved: 3**
+📊 **Total Problems Solved: 4**
 
-🟢 Easy: 2
+🟢 Easy: 3
 🟡 Medium: 0
 🔴 Hard: 1
 
@@ -13,6 +13,7 @@
 |    # | Problem                                         | Difficulty | Solution                                     |
 | ---: | ----------------------------------------------- | ---------- | -------------------------------------------- |
 |    9 | Palindrome Number                                  | Easy     | [palindrome-number.cpp](9-palindrome-number/palindrome-number.cpp) |
+|   13 | Roman to Integer                                   | Easy     | [roman-to-integer.py](13-roman-to-integer/roman-to-integer.py) |
 | 1617 | Stone Game IV                                      | Hard     | [stone-game-iv.py](1617-stone-game-iv/stone-game-iv.py) |
 | 3236 | Smallest Missing Integer Greater Than Sequential P | Easy     | [smallest-missing-integer-greater-than-sequential-prefix-sum.py](3236-smallest-missing-integer-greater-than-sequential-prefix-sum/smallest-missing-integer-greater-than-sequential-prefix-sum.py) |
 
