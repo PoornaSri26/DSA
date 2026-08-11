@@ -17,14 +17,7 @@
 | 1617 | Stone Game IV                                      | Hard     | [stone-game-iv.py](1617-stone-game-iv/stone-game-iv.py) |
 | 3236 | Smallest Missing Integer Greater Than Sequential P | Easy     | [smallest-missing-integer-greater-than-sequential-prefix-sum.py](3236-smallest-missing-integer-greater-than-sequential-prefix-sum/smallest-missing-integer-greater-than-sequential-prefix-sum.py) |
 
----
 
-## How to Add a New Problem
-
-1. Create a new folder with the format: `{number}-problem-name`
-2. Add your solution file (e.g., `solution.cpp`)
-3. Add a `README.md` with the problem description (copy from LeetCode)
-4. Commit and push - the README will automatically update!
 
 ---
 
