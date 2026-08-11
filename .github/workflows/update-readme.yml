@@ -1,10 +1,13 @@
-name: Update README
+name: Update README with Advanced Analytics
 
 on:
   push:
     branches:
       - main
   workflow_dispatch:
+  schedule:
+    # Run daily at midnight UTC to update analytics
+    - cron: '0 0 * * *'
 
 permissions:
   contents: write
@@ -30,7 +33,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Auto-update README.md [skip ci]"
+          git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Auto-update README with advanced analytics [skip ci]"
       
       - name: Push changes
         uses: ad-m/github-push-action@master
