@@ -1,91 +1,148 @@
-# 🚀 DSA Mastery Hub
+# 🧠 Advanced DSA Mastery System
 
-> Advanced Data Structures & Algorithms repository with intelligent analytics and progress tracking
+> Production-grade repository with spaced repetition, retention tracking, and interview readiness analytics
 
 ---
 
-## 📊 Performance Dashboard
+## 🎯 Interview Readiness: 📊 D-Tier
+
+**Overall Score: 14.1/100**
+
+### Readiness Breakdown
+- **Problem Count**: 2.0/25
+- **Difficulty Balance**: 0.0/25
+- **Topic Coverage**: 10.5/25
+- **Retention Quality**: 0.0/25
+- **Pattern Mastery**: 1.6/25
+
+### Progress Metrics
+- **Total Problems**: 4
+- **Topics Mastered**: 7/21
+- **Patterns Mastered**: 2
+
+---
+
+## 📊 Advanced Performance Dashboard
 
 ### Problem Statistics
-- **Total Solved**: 3
-- **🟢 Easy**: 2 | **🟡 Medium**: 0 | **🔴 Hard**: 1
-- **🔥 Current Streak**: 3 days
-- **📈 This Week**: 3 | **📅 This Month**: 3
+- **Total Solved**: 4
+- **🟢 Easy**: 3 | **🟡 Medium**: 0 | **🔴 Hard**: 1
+- **🧠 Overall Retention**: 50.0%
+- **📈 Learning Velocity**: 4.0 problems/week
 
-### 🏆 Achievement Badges
-- ⚡ Consistent Coder (3+ day streak)
+### Spaced Repetition Status
+- **📋 Due Today**: 0 problems
+- **📅 Due This Week**: 4 problems
+- **🔄 Total Reviews**: 0
 
----
-
-## 🎯 Smart Recommendations
-1. 🚀 Challenge yourself with more Medium problems
-2. 🧠 Dynamic Programming is essential for interviews - consider practicing more
-3. 🕸️ Graph algorithms are frequently asked - add them to your practice
-
----
-
-## 🧠 Topic Mastery Analysis
-
-| Topic | Mastery Level | Problems | Progress |
-|-------|---------------|----------|----------|
-| Bit Manipulation     | Intermediate 📈       |   3 | ███░░░░░░░░░░░░░░░░░ |
-| Math                 | Intermediate 📈       |   3 | ███░░░░░░░░░░░░░░░░░ |
-| Greedy               | Beginner 🌱           |   1 | █░░░░░░░░░░░░░░░░░░░ |
-| Two Pointers         | Beginner 🌱           |   2 | ██░░░░░░░░░░░░░░░░░░ |
-| Array                | Beginner 🌱           |   1 | █░░░░░░░░░░░░░░░░░░░ |
-| Trie                 | Beginner 🌱           |   1 | █░░░░░░░░░░░░░░░░░░░ |
-| String               | Beginner 🌱           |   1 | █░░░░░░░░░░░░░░░░░░░ |
+### Practice Heatmap (Last 12 Weeks)
+⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜
+⬜🟥⬜⬜⬜⬜⬜
 
 ---
 
-## 📋 Complete Problem List
-
-|  #  | Problem Title | Difficulty | Language | Topics | Solution |
-|----:|---------------|------------|----------|--------|----------|
-|    9 | Palindrome Number                        | Easy     | `C++`      | Bit Manipulation, Math, String (+1) | [palindrome-number.cpp](9-palindrome-number/palindrome-number.cpp) |
-| 1617 | Stone Game IV                            | Hard     | `Python`   | Bit Manipulation, Greedy, Math | [stone-game-iv.py](1617-stone-game-iv/stone-game-iv.py) |
-| 3236 | Smallest Missing Integer Greater Than Se | Easy     | `Python`   | Array, Bit Manipulation, Math (+2) | [smallest-missing-integer-greater-than-sequential-prefix-sum.py](3236-smallest-missing-integer-greater-than-sequential-prefix-sum/smallest-missing-integer-greater-than-sequential-prefix-sum.py) |
-
----
-
-## 📈 Performance Analytics
-
-### Language Distribution
-- **Python**: 2 problems
-- **C++**: 1 problems
-
-### Learning Journey
-- **First Problem**: August 11, 2026
-- **Latest Problem**: August 11, 2026
-- **Active Learning Period**: 0 days
+## 🎯 Intelligent Recommendations
+1. 🎯 Current readiness: D-tier. Focus on problem count and topic coverage.
+2. 📉 Overall retention below 70% - increase review frequency of older problems
+3. 🧠 Dynamic Programming is critical for interviews - currently under-practiced
+4. 🧠 Graph is critical for interviews - currently under-practiced
+5. 🧠 Tree is critical for interviews - currently under-practiced
+6. 🧠 Backtracking is critical for interviews - currently under-practiced
+7. 🔍 Only 2 patterns mastered. Aim for 15+ patterns for interview readiness
 
 ---
 
-## 🛠️ How to Add New Problems
+## 🧠 Advanced Topic Mastery
 
-1. **Create folder**: `{number}-problem-name` (e.g., `0001-two-sum`)
-2. **Add solution**: Place your solution file (`.cpp`, `.py`, `.java`, etc.)
-3. **Add README**: Include LeetCode problem description
-4. **Push changes**: Repository README auto-updates with analytics!
-
----
-
-## 🤖 Automation Features
-
-This repository uses intelligent automation to provide:
-- **Topic Extraction**: Automatically identifies DSA topics from problem descriptions
-- **Mastery Tracking**: Calculates your expertise level in each topic
-- **Smart Recommendations**: Personalized suggestions based on your patterns
-- **Performance Analytics**: Detailed insights into your learning journey
-- **Achievement System**: Badges and milestones to motivate progress
+| Topic | Mastery Level | Count | Retention | Progress | Last Practice |
+|-------|---------------|-------|-----------|----------|---------------|
+| Bit Manipulation     | Advanced 💪           |   4 | 100% | ███████████████░░░░░ | 0d ago     |
+| Math                 | Advanced 💪           |   4 | 100% | ███████████████░░░░░ | 0d ago     |
+| String               | Advanced 💪           |   4 | 100% | ███████████████░░░░░ | 0d ago     |
+| Two Pointers         | Advanced 💪           |   3 | 100% | ███████████░░░░░░░░░ | 0d ago     |
+| Greedy               | Advanced 💪           |   1 | 100% | ██████████░░░░░░░░░░ | 0d ago     |
+| Trie                 | Advanced 💪           |   2 | 100% | ██████████░░░░░░░░░░ | 0d ago     |
+| Array                | Intermediate 📈       |   1 | 100% | ████████░░░░░░░░░░░░ | 0d ago     |
 
 ---
 
-## 📚 Topic Coverage
+## 📋 Complete Problem List with Retention
 
-Current topics tracked: Array, String, Hash Table, Dynamic Programming, Tree, Graph, Linked List, Stack, Queue, Heap, Binary Search, Greedy, Backtracking, Math, Bit Manipulation, Trie, Segment Tree, Union Find, Sliding Window, Two Pointers, Divide and Conquer
+|  #  | Problem Title | Difficulty | Pattern | Retention | Topics | Solution |
+|----:|---------------|------------|---------|-----------|--------|----------|
+|    9 | Palindrome Number                   | Easy     | `Two Pointers`  | 100% | Bit Manipulation, Math (+3) | [palindrome-number.cpp](9-palindrome-number/palindrome-number.cpp) |
+|   13 | Roman to Integer                    | Easy     | `Two Pointers`  | 100% | Bit Manipulation, Math (+2) | [roman-to-integer.py](13-roman-to-integer/roman-to-integer.py) |
+| 1617 | Stone Game IV                       | Hard     | `Greedy`        | 100% | Bit Manipulation, Greedy (+2) | [stone-game-iv.py](1617-stone-game-iv/stone-game-iv.py) |
+| 3236 | Smallest Missing Integer Greater Th | Easy     | `Two Pointers`  | 100% | Array, Bit Manipulation (+4) | [smallest-missing-integer-greater-than-sequential-prefix-sum.py](3236-smallest-missing-integer-greater-than-sequential-prefix-sum/smallest-missing-integer-greater-than-sequential-prefix-sum.py) |
 
 ---
 
-*Repository README automatically generated by advanced analytics engine*  
-*Last updated: 2026-08-11 13:38:24*
+## 📈 Retention Analytics by Difficulty
+- **Easy**: 100.0% retention rate
+- **Hard**: 100.0% retention rate
+
+---
+
+## 🤖 Advanced System Features
+
+This repository implements a production-grade learning system:
+
+### 🧠 Spaced Repetition (FSRS Algorithm)
+- **FSRS-based scheduling** optimized for coding problems
+- **Automatic review scheduling** based on forgetting curves
+- **Retention rate tracking** for each problem and topic
+- **Adaptive intervals** that adjust based on performance
+
+### 📊 Advanced Analytics
+- **Interview readiness scoring** (S-D tier system)
+- **Pattern detection** across algorithmic categories
+- **Learning velocity** and consistency metrics
+- **Practice heatmaps** for visual progress tracking
+
+### 🎯 Intelligent Recommendations
+- **Personalized study suggestions** based on analytics
+- **Topic gap analysis** for interview preparation
+- **Retention-based scheduling** for optimal learning
+- **Difficulty progression** guidance
+
+---
+
+## 🛠️ System Architecture
+
+### FSRS Algorithm Implementation
+- **Stability calculation**: Days until retention decays to 37%
+- **Difficulty adaptation**: Adjusts based on performance ratings
+- **Interval optimization**: Mathematical scheduling for maximum retention
+- **Retention prediction**: Probability estimates for each problem
+
+### Pattern Recognition
+- **21 DSA topics** tracked with keyword matching
+- **Algorithmic patterns** identified from problem characteristics
+- **Cross-topic analysis** for pattern mastery assessment
+- **Interview alignment** with common question categories
+
+---
+
+## 📚 How This System Works
+
+1. **Add Problems**: Create folders with solutions and READMEs
+2. **Auto-Analysis**: System extracts topics, patterns, and metadata
+3. **FSRS Scheduling**: Calculates optimal review intervals
+4. **Analytics Generation**: Produces comprehensive learning insights
+5. **Smart Recommendations**: Provides personalized guidance
+
+---
+
+*Advanced DSA Repository System with Spaced Repetition & Interview Analytics*  
+*Last updated: 2026-08-11 13:51:01*  
+*FSRS Algorithm v1.0 | Retention Tracking Active*
