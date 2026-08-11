@@ -1,34 +1,37 @@
-# 🧠 Advanced DSA Mastery System
+# 🧠 AI-Powered DSA Mastery System
 
-> Production-grade repository with spaced repetition, retention tracking, and interview readiness analytics
+> Next-generation repository with knowledge graphs, AI recommendations, and adaptive learning paths
 
 ---
 
 ## 🎯 Interview Readiness: 📊 D-Tier
 
-**Overall Score: 14.1/100**
+**Overall Score: 25.3/100**
 
 ### Readiness Breakdown
 - **Problem Count**: 2.0/25
 - **Difficulty Balance**: 0.0/25
 - **Topic Coverage**: 10.5/25
-- **Retention Quality**: 0.0/25
+- **Graph Connectivity**: 1.2/25
 - **Pattern Mastery**: 1.6/25
+- **Learning Diversity**: 10.0/25
 
-### Progress Metrics
-- **Total Problems**: 4
-- **Topics Mastered**: 7/21
-- **Patterns Mastered**: 2
+### Knowledge Graph Metrics
+- **Graph Connections**: 12
+- **Learning Paths**: 4
+- **Topic Clusters**: 7
+- **Pattern Clusters**: 2
 
 ---
 
-## 📊 Advanced Performance Dashboard
+## 📊 AI-Enhanced Performance Dashboard
 
 ### Problem Statistics
 - **Total Solved**: 4
 - **🟢 Easy**: 3 | **🟡 Medium**: 0 | **🔴 Hard**: 1
 - **🧠 Overall Retention**: 50.0%
 - **📈 Learning Velocity**: 4.0 problems/week
+- **🕸️ Graph Connectivity**: 1.5 avg connections
 
 ### Spaced Repetition Status
 - **📋 Due Today**: 0 problems
@@ -51,39 +54,65 @@
 
 ---
 
-## 🎯 Intelligent Recommendations
-1. 🎯 Current readiness: D-tier. Focus on problem count and topic coverage.
-2. 📉 Overall retention below 70% - increase review frequency of older problems
-3. 🧠 Dynamic Programming is critical for interviews - currently under-practiced
-4. 🧠 Graph is critical for interviews - currently under-practiced
-5. 🧠 Tree is critical for interviews - currently under-practiced
-6. 🧠 Backtracking is critical for interviews - currently under-practiced
-7. 🔍 Only 2 patterns mastered. Aim for 15+ patterns for interview readiness
+## 🤖 AI-Powered Recommendations
+1. 🧠 Knowledge graph gaps: Greedy, Array - need more coverage
+2. 🕸️ Your knowledge graph has 7 topic clusters - focus on connecting concepts
 
 ---
 
-## 🧠 Advanced Topic Mastery
+## 🕸️ Knowledge Graph Analysis
+🕸️ KNOWLEDGE GRAPH STRUCTURE
+========================================
 
-| Topic | Mastery Level | Count | Retention | Progress | Last Practice |
-|-------|---------------|-------|-----------|----------|---------------|
-| Bit Manipulation     | Advanced 💪           |   4 | 100% | ███████████████░░░░░ | 0d ago     |
-| Math                 | Advanced 💪           |   4 | 100% | ███████████████░░░░░ | 0d ago     |
-| String               | Advanced 💪           |   4 | 100% | ███████████████░░░░░ | 0d ago     |
-| Two Pointers         | Advanced 💪           |   3 | 100% | ███████████░░░░░░░░░ | 0d ago     |
-| Greedy               | Advanced 💪           |   1 | 100% | ██████████░░░░░░░░░░ | 0d ago     |
-| Trie                 | Advanced 💪           |   2 | 100% | ██████████░░░░░░░░░░ | 0d ago     |
-| Array                | Intermediate 📈       |   1 | 100% | ████████░░░░░░░░░░░░ | 0d ago     |
+📚 Topic Clusters:
+  Bit Manipulation: [9, 13, 1617, 3236]
+  Math: [9, 13, 1617, 3236]
+  String: [9, 13, 1617, 3236]
+  Two Pointers: [9, 13, 3236]
+  Trie: [9, 3236]
+  Greedy: [1617]
+  Array: [3236]
+
+🔧 Pattern Clusters:
+  Two Pointers: [9, 13, 3236]
+  Greedy: [1617]
+
+🔗 Most Connected Problems:
+  #13 Roman to Integer: 2 connections
+  #3236 Smallest Missing Integer Great: 2 connections
+  #9 Palindrome Number: 2 connections
+  #1617 Stone Game IV: 0 connections
+
+🛤️ Generated Learning Paths:
+  topic_coverage: [3236, 9, 13, 1617, 3236 (19 total)]
+  difficulty_progression: [9, 13, 3236, 1617]
+  pattern_mastery: [1617, 9, 13, 3236]
+  high_impact: [13, 3236, 9, 1617]
 
 ---
 
-## 📋 Complete Problem List with Retention
+## 🧠 Advanced Topic Mastery with Graph Insights
 
-|  #  | Problem Title | Difficulty | Pattern | Retention | Topics | Solution |
-|----:|---------------|------------|---------|-----------|--------|----------|
-|    9 | Palindrome Number                   | Easy     | `Two Pointers`  | 100% | Bit Manipulation, Math (+3) | [palindrome-number.cpp](9-palindrome-number/palindrome-number.cpp) |
-|   13 | Roman to Integer                    | Easy     | `Two Pointers`  | 100% | Bit Manipulation, Math (+2) | [roman-to-integer.py](13-roman-to-integer/roman-to-integer.py) |
-| 1617 | Stone Game IV                       | Hard     | `Greedy`        | 100% | Bit Manipulation, Greedy (+2) | [stone-game-iv.py](1617-stone-game-iv/stone-game-iv.py) |
-| 3236 | Smallest Missing Integer Greater Th | Easy     | `Two Pointers`  | 100% | Array, Bit Manipulation (+4) | [smallest-missing-integer-greater-than-sequential-prefix-sum.py](3236-smallest-missing-integer-greater-than-sequential-prefix-sum/smallest-missing-integer-greater-than-sequential-prefix-sum.py) |
+| Topic | Mastery Level | Count | Retention | Connections | Progress | Last Practice |
+|-------|---------------|-------|-----------|-------------|----------|---------------|
+| Bit Manipulation     | Advanced 💪           |   4 | 100% |  6 | ████████████████░░░░ | 0d ago     |
+| Math                 | Advanced 💪           |   4 | 100% |  6 | ████████████████░░░░ | 0d ago     |
+| String               | Advanced 💪           |   4 | 100% |  6 | ████████████████░░░░ | 0d ago     |
+| Two Pointers         | Advanced 💪           |   3 | 100% |  6 | ████████████░░░░░░░░ | 0d ago     |
+| Trie                 | Advanced 💪           |   2 | 100% |  4 | ██████████░░░░░░░░░░ | 0d ago     |
+| Greedy               | Advanced 💪           |   1 | 100% |  0 | ██████████░░░░░░░░░░ | 0d ago     |
+| Array                | Intermediate 📈       |   1 | 100% |  2 | ████████░░░░░░░░░░░░ | 0d ago     |
+
+---
+
+## 📋 Complete Problem List with Graph Metrics
+
+|  #  | Problem Title | Difficulty | Pattern | Retention | Conn | Topics | Solution |
+|----:|---------------|------------|---------|-----------|------|--------|----------|
+|    9 | Palindrome Number              | Easy     | `Two Pointers`  | 100% |  2 | Bit Manipulation, Math (+3) | [palindrome-number.cpp](9-palindrome-number/palindrome-number.cpp) |
+|   13 | Roman to Integer               | Easy     | `Two Pointers`  | 100% |  2 | Bit Manipulation, Math (+2) | [roman-to-integer.py](13-roman-to-integer/roman-to-integer.py) |
+| 1617 | Stone Game IV                  | Hard     | `Greedy`        | 100% |  0 | Bit Manipulation, Greedy (+2) | [stone-game-iv.py](1617-stone-game-iv/stone-game-iv.py) |
+| 3236 | Smallest Missing Integer Great | Easy     | `Two Pointers`  | 100% |  2 | Array, Bit Manipulation (+4) | [smallest-missing-integer-greater-than-sequential-prefix-sum.py](3236-smallest-missing-integer-greater-than-sequential-prefix-sum/smallest-missing-integer-greater-than-sequential-prefix-sum.py) |
 
 ---
 
@@ -93,56 +122,61 @@
 
 ---
 
-## 🤖 Advanced System Features
+## 🤖 AI System Features
 
-This repository implements a production-grade learning system:
+This repository implements a next-generation learning system:
 
-### 🧠 Spaced Repetition (FSRS Algorithm)
-- **FSRS-based scheduling** optimized for coding problems
-- **Automatic review scheduling** based on forgetting curves
-- **Retention rate tracking** for each problem and topic
-- **Adaptive intervals** that adjust based on performance
+### 🕸️ Knowledge Graph Technology
+- **Automated graph construction** from problem metadata
+- **Similarity detection** using multi-factor analysis
+- **Learning dependency mapping** for optimal sequencing
+- **Adaptive learning paths** using graph algorithms
+- **Topic clustering** for knowledge organization
 
-### 📊 Advanced Analytics
-- **Interview readiness scoring** (S-D tier system)
-- **Pattern detection** across algorithmic categories
-- **Learning velocity** and consistency metrics
-- **Practice heatmaps** for visual progress tracking
+### 🧠 AI-Powered Analytics
+- **Interview readiness scoring** with graph connectivity factors
+- **Pattern recognition** across algorithmic categories
+- **Knowledge gap analysis** using graph metrics
+- **High-impact problem identification** via centrality measures
+- **Personalized learning sequences** based on graph structure
 
 ### 🎯 Intelligent Recommendations
-- **Personalized study suggestions** based on analytics
-- **Topic gap analysis** for interview preparation
-- **Retention-based scheduling** for optimal learning
-- **Difficulty progression** guidance
+- **Knowledge graph-based suggestions** for optimal learning
+- **Similarity-driven problem recommendations**
+- **Learning path optimization** using graph traversal
+- **Dependency-aware sequencing** for skill building
+- **Adaptive difficulty progression** based on graph analysis
 
 ---
 
-## 🛠️ System Architecture
+## 🛠️ AI System Architecture
 
-### FSRS Algorithm Implementation
-- **Stability calculation**: Days until retention decays to 37%
-- **Difficulty adaptation**: Adjusts based on performance ratings
-- **Interval optimization**: Mathematical scheduling for maximum retention
-- **Retention prediction**: Probability estimates for each problem
+### Knowledge Graph Engine
+- **Multi-factor similarity calculation** (topics, patterns, difficulty, language)
+- **Graph-based clustering** for topic and pattern groups
+- **Learning path generation** using graph algorithms
+- **Connectivity analysis** for problem importance
+- **Dependency mapping** for skill prerequisites
 
-### Pattern Recognition
-- **21 DSA topics** tracked with keyword matching
-- **Algorithmic patterns** identified from problem characteristics
-- **Cross-topic analysis** for pattern mastery assessment
-- **Interview alignment** with common question categories
-
----
-
-## 📚 How This System Works
-
-1. **Add Problems**: Create folders with solutions and READMEs
-2. **Auto-Analysis**: System extracts topics, patterns, and metadata
-3. **FSRS Scheduling**: Calculates optimal review intervals
-4. **Analytics Generation**: Produces comprehensive learning insights
-5. **Smart Recommendations**: Provides personalized guidance
+### AI Recommendation Engine
+- **Graph-based problem similarity** analysis
+- **High-impact problem identification** via centrality
+- **Learning gap detection** using graph metrics
+- **Adaptive path generation** based on user progress
+- **Knowledge graph visualization** for insights
 
 ---
 
-*Advanced DSA Repository System with Spaced Repetition & Interview Analytics*  
-*Last updated: 2026-08-11 13:51:01*  
-*FSRS Algorithm v1.0 | Retention Tracking Active*
+## 📚 How the AI System Works
+
+1. **Add Problems**: System extracts metadata and builds knowledge graph
+2. **Graph Analysis**: Calculates similarities, dependencies, and clusters
+3. **AI Processing**: Generates learning paths and identifies high-impact problems
+4. **Smart Recommendations**: Provides graph-based personalized guidance
+5. **Adaptive Learning**: Optimizes sequences based on knowledge graph structure
+
+---
+
+*AI-Powered DSA Repository System with Knowledge Graph & Adaptive Learning*  
+*Last updated: 2026-08-11 14:02:44*  
+*Knowledge Graph v2.0 | AI Recommendations Active | Adaptive Learning Paths*
