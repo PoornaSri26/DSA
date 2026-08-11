@@ -55,7 +55,7 @@
 ---
 
 ## 🤖 AI-Powered Recommendations
-1. 🧠 Knowledge graph gaps: Greedy, Array - need more coverage
+1. 🧠 Knowledge graph gaps: Array, Greedy - need more coverage
 2. 🕸️ Your knowledge graph has 7 topic clusters - focus on connecting concepts
 
 ---
@@ -70,24 +70,24 @@
   String: [9, 13, 1617, 3236]
   Two Pointers: [9, 13, 3236]
   Trie: [9, 3236]
-  Greedy: [1617]
   Array: [3236]
+  Greedy: [1617]
 
 🔧 Pattern Clusters:
   Two Pointers: [9, 13, 3236]
   Greedy: [1617]
 
 🔗 Most Connected Problems:
-  #13 Roman to Integer: 2 connections
   #3236 Smallest Missing Integer Great: 2 connections
   #9 Palindrome Number: 2 connections
+  #13 Roman to Integer: 2 connections
   #1617 Stone Game IV: 0 connections
 
 🛤️ Generated Learning Paths:
   topic_coverage: [3236, 9, 13, 1617, 3236 (19 total)]
   difficulty_progression: [9, 13, 3236, 1617]
   pattern_mastery: [1617, 9, 13, 3236]
-  high_impact: [13, 3236, 9, 1617]
+  high_impact: [3236, 9, 13, 1617]
 
 ---
 
@@ -178,5 +178,5 @@ This repository implements a next-generation learning system:
 ---
 
 *AI-Powered DSA Repository System with Knowledge Graph & Adaptive Learning*  
-*Last updated: 2026-08-11 14:02:44*  
+*Last updated: 2026-08-11 08:40:31*  
 *Knowledge Graph v2.0 | AI Recommendations Active | Adaptive Learning Paths*
