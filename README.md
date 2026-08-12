@@ -21,7 +21,7 @@
 
 ## ➕ Add Problem
 
-`{number}-problem-name/` → solution file + README → push ✨
+`0001-two-sum/` → solution file + README → push ✨
 
 ---
 
