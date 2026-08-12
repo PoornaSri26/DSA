@@ -8,6 +8,7 @@ import os
 import re
 from pathlib import Path
 from collections import Counter
+from datetime import datetime
 
 def extract_problem_info(folder_path):
     """Extract basic problem information from folder."""
@@ -36,10 +37,16 @@ def extract_problem_info(folder_path):
     number_match = re.match(r'(\d+)-', folder_name)
     problem_number = int(number_match.group(1)) if number_match else 0
     
-    # Find solution file
+    # Find solution file and determine language
     solution_files = list(folder_path.glob("*.cpp")) + list(folder_path.glob("*.py")) + \
                      list(folder_path.glob("*.java")) + list(folder_path.glob("*.js"))
     solution_file = solution_files[0] if solution_files else None
+    
+    language = None
+    if solution_file:
+        ext = solution_file.suffix
+        language_map = {'.cpp': 'C++', '.py': 'Python', '.java': 'Java', '.js': 'JavaScript'}
+        language = language_map.get(ext, 'Other')
     
     return {
         'number': problem_number,
@@ -47,7 +54,9 @@ def extract_problem_info(folder_path):
         'difficulty': difficulty,
         'url': url,
         'folder': folder_name,
-        'solution_file': solution_file.name if solution_file else None
+        'solution_file': solution_file.name if solution_file else None,
+        'language': language,
+        'date': datetime.fromtimestamp(folder_path.stat().st_mtime)
     }
 
 def generate_readme(problems):
@@ -60,24 +69,33 @@ def generate_readme(problems):
     medium = diff_counts.get('Medium', 0)
     hard = diff_counts.get('Hard', 0)
     
+    # Count by language
+    lang_counts = Counter(p['language'] for p in problems if p['language'])
+    
     # Simple progress bar
     progress = "█" * min(20, total) + "░" * max(0, 20 - total)
     
     # Sort by problem number
     sorted_problems = sorted(problems, key=lambda x: x['number'])
     
-    # Generate table rows with emoji
+    # Generate table rows with emoji and language
     table_rows = []
     for problem in sorted_problems:
         solution_link = f"[{problem['solution_file']}]({problem['folder']}/{problem['solution_file']})" if problem['solution_file'] else "N/A"
         emoji = "🟢" if problem['difficulty'] == 'Easy' else "🟡" if problem['difficulty'] == 'Medium' else "🔴"
-        table_rows.append(f"| {problem['number']:4d} | {emoji} {problem['title'][:40]:40s} | {solution_link} |")
+        lang_emoji = {"C++": "⚙️", "Python": "🐍", "Java": "☕", "JavaScript": "📜"}.get(problem['language'], "💻")
+        table_rows.append(f"| {problem['number']:4d} | {emoji} {problem['title'][:35]:35s} | {lang_emoji} {problem['language'] or 'N/A':8s} | {solution_link} |")
     
     table_content = "\n".join(table_rows)
+    
+    # Language badges
+    lang_badges = " ".join([f"![{lang}](https://img.shields.io/badge/{lang}-{count}-blue)" for lang, count in lang_counts.items()])
     
     readme_content = f"""# 🧩 LeetCode Solutions
 
 ![Progress](https://img.shields.io/badge/Progress-{total}-20-green) ![Easy](https://img.shields.io/badge/Easy-{easy}-brightgreen) ![Medium](https://img.shields.io/badge/Medium-{medium}-yellow) ![Hard](https://img.shields.io/badge/Hard-{hard}-red)
+
+{lang_badges}
 
 {progress} **{total}/20** problems
 
@@ -85,8 +103,8 @@ def generate_readme(problems):
 
 ## 📋 Problems
 
-|  #  | Problem | Solution |
-|----:|---------|----------|
+|  #  | Problem | Lang | Solution |
+|----:|---------|------|----------|
 {table_content}
 
 ---
