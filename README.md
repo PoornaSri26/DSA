@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
-![Progress](https://img.shields.io/badge/Progress-9-20-green) ![Easy](https://img.shields.io/badge/Easy-3-brightgreen) ![Medium](https://img.shields.io/badge/Medium-3-yellow) ![Hard](https://img.shields.io/badge/Hard-3-red)
+![Progress](https://img.shields.io/badge/Progress-10-20-green) ![Easy](https://img.shields.io/badge/Easy-3-brightgreen) ![Medium](https://img.shields.io/badge/Medium-4-yellow) ![Hard](https://img.shields.io/badge/Hard-3-red)
 
-![Java](https://img.shields.io/badge/Java-3-blue) ![Python](https://img.shields.io/badge/Python-5-blue) ![C++](https://img.shields.io/badge/C++-1-blue)
+![Java](https://img.shields.io/badge/Java-4-blue) ![Python](https://img.shields.io/badge/Python-5-blue) ![C++](https://img.shields.io/badge/C++-1-blue)
 
-█████████░░░░░░░░░░░ **9/20** problems
+██████████░░░░░░░░░░ **10/20** problems
 
 ---
 
@@ -18,6 +18,7 @@
 | 2002 | 🔴 Stone Game VIII                     | 🐍 Python   | [stone-game-viii.py](2002-stone-game-viii/stone-game-viii.py) |
 | 2039 | 🟡 Sum Game                            | 🐍 Python   | [sum-game.py](2039-sum-game/sum-game.py) |
 | 3150 | 🟡 Shortest and Lexicographically Smal | ☕ Java     | [shortest-and-lexicographically-smallest-beautiful-string.java](3150-shortest-and-lexicographically-smallest-beautiful-string/shortest-and-lexicographically-smallest-beautiful-string.java) |
+| 3219 | 🟡 Make Lexicographically Smallest Arr | ☕ Java     | [make-lexicographically-smallest-array-by-swapping-elements.java](3219-make-lexicographically-smallest-array-by-swapping-elements/make-lexicographically-smallest-array-by-swapping-elements.java) |
 | 3236 | 🟢 Smallest Missing Integer Greater Th | 🐍 Python   | [smallest-missing-integer-greater-than-sequential-prefix-sum.py](3236-smallest-missing-integer-greater-than-sequential-prefix-sum/smallest-missing-integer-greater-than-sequential-prefix-sum.py) |
 | 4020 | 🟡 Lexicographically Smallest Permutat | ☕ Java     | [lexicographically-smallest-permutation-greater-than-target.java](4020-lexicographically-smallest-permutation-greater-than-target/lexicographically-smallest-permutation-greater-than-target.java) |
 | 4037 | 🔴 Lexicographically Smallest Palindro | ☕ Java     | [lexicographically-smallest-palindromic-permutation-greater-than-target.java](4037-lexicographically-smallest-palindromic-permutation-greater-than-target/lexicographically-smallest-palindromic-permutation-greater-than-target.java) |
