@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
-![Progress](https://img.shields.io/badge/Progress-11-20-green) ![Easy](https://img.shields.io/badge/Easy-3-brightgreen) ![Medium](https://img.shields.io/badge/Medium-5-yellow) ![Hard](https://img.shields.io/badge/Hard-3-red)
+![Progress](https://img.shields.io/badge/Progress-12-20-green) ![Easy](https://img.shields.io/badge/Easy-3-brightgreen) ![Medium](https://img.shields.io/badge/Medium-6-yellow) ![Hard](https://img.shields.io/badge/Hard-3-red)
 
-![Java](https://img.shields.io/badge/Java-5-blue) ![Python](https://img.shields.io/badge/Python-5-blue) ![C++](https://img.shields.io/badge/C++-1-blue)
+![C++](https://img.shields.io/badge/C++-2-blue) ![Python](https://img.shields.io/badge/Python-5-blue) ![Java](https://img.shields.io/badge/Java-5-blue)
 
-███████████░░░░░░░░░ **11/20** problems
+████████████░░░░░░░░ **12/20** problems
 
 ---
 
@@ -23,6 +23,7 @@
 | 3236 | 🟢 Smallest Missing Integer Greater Th | 🐍 Python   | [smallest-missing-integer-greater-than-sequential-prefix-sum.py](3236-smallest-missing-integer-greater-than-sequential-prefix-sum/smallest-missing-integer-greater-than-sequential-prefix-sum.py) |
 | 4020 | 🟡 Lexicographically Smallest Permutat | ☕ Java     | [lexicographically-smallest-permutation-greater-than-target.java](4020-lexicographically-smallest-permutation-greater-than-target/lexicographically-smallest-permutation-greater-than-target.java) |
 | 4037 | 🔴 Lexicographically Smallest Palindro | ☕ Java     | [lexicographically-smallest-palindromic-permutation-greater-than-target.java](4037-lexicographically-smallest-palindromic-permutation-greater-than-target/lexicographically-smallest-palindromic-permutation-greater-than-target.java) |
+| 4258 | 🟡 Construct Uniform Parity Array II   | ⚙️ C++      | [construct-uniform-parity-array-ii.cpp](4258-construct-uniform-parity-array-ii/construct-uniform-parity-array-ii.cpp) |
 
 ---
 
