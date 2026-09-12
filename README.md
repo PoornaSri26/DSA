@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
-![Progress](https://img.shields.io/badge/Progress-13-20-green) ![Easy](https://img.shields.io/badge/Easy-4-brightgreen) ![Medium](https://img.shields.io/badge/Medium-6-yellow) ![Hard](https://img.shields.io/badge/Hard-3-red)
+![Progress](https://img.shields.io/badge/Progress-14-20-green) ![Easy](https://img.shields.io/badge/Easy-4-brightgreen) ![Medium](https://img.shields.io/badge/Medium-6-yellow) ![Hard](https://img.shields.io/badge/Hard-4-red)
 
-![C++](https://img.shields.io/badge/C++-2-blue) ![Python](https://img.shields.io/badge/Python-5-blue) ![Java](https://img.shields.io/badge/Java-6-blue)
+![C++](https://img.shields.io/badge/C++-3-blue) ![Python](https://img.shields.io/badge/Python-5-blue) ![Java](https://img.shields.io/badge/Java-6-blue)
 
-█████████████░░░░░░░ **13/20** problems
+██████████████░░░░░░ **14/20** problems
 
 ---
 
@@ -21,6 +21,7 @@
 | 3150 | 🟡 Shortest and Lexicographically Smal | ☕ Java     | [shortest-and-lexicographically-smallest-beautiful-string.java](3150-shortest-and-lexicographically-smallest-beautiful-string/shortest-and-lexicographically-smallest-beautiful-string.java) |
 | 3219 | 🟡 Make Lexicographically Smallest Arr | ☕ Java     | [make-lexicographically-smallest-array-by-swapping-elements.java](3219-make-lexicographically-smallest-array-by-swapping-elements/make-lexicographically-smallest-array-by-swapping-elements.java) |
 | 3236 | 🟢 Smallest Missing Integer Greater Th | 🐍 Python   | [smallest-missing-integer-greater-than-sequential-prefix-sum.py](3236-smallest-missing-integer-greater-than-sequential-prefix-sum/smallest-missing-integer-greater-than-sequential-prefix-sum.py) |
+| 3562 | 🔴 Maximum Score of Non-overlapping In | ⚙️ C++      | [maximum-score-of-non-overlapping-intervals.cpp](3562-maximum-score-of-non-overlapping-intervals/maximum-score-of-non-overlapping-intervals.cpp) |
 | 4020 | 🟡 Lexicographically Smallest Permutat | ☕ Java     | [lexicographically-smallest-permutation-greater-than-target.java](4020-lexicographically-smallest-permutation-greater-than-target/lexicographically-smallest-permutation-greater-than-target.java) |
 | 4037 | 🔴 Lexicographically Smallest Palindro | ☕ Java     | [lexicographically-smallest-palindromic-permutation-greater-than-target.java](4037-lexicographically-smallest-palindromic-permutation-greater-than-target/lexicographically-smallest-palindromic-permutation-greater-than-target.java) |
 | 4258 | 🟡 Construct Uniform Parity Array II   | ⚙️ C++      | [construct-uniform-parity-array-ii.cpp](4258-construct-uniform-parity-array-ii/construct-uniform-parity-array-ii.cpp) |
