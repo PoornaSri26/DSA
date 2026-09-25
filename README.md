@@ -2,7 +2,7 @@
 
 ![Progress](https://img.shields.io/badge/Progress-14-20-green) ![Easy](https://img.shields.io/badge/Easy-4-brightgreen) ![Medium](https://img.shields.io/badge/Medium-6-yellow) ![Hard](https://img.shields.io/badge/Hard-4-red)
 
-![C++](https://img.shields.io/badge/C++-3-blue) ![Python](https://img.shields.io/badge/Python-5-blue) ![Java](https://img.shields.io/badge/Java-6-blue)
+![Python](https://img.shields.io/badge/Python-5-blue) ![Java](https://img.shields.io/badge/Java-6-blue) ![C++](https://img.shields.io/badge/C++-3-blue)
 
 ██████████████░░░░░░ **14/20** problems
 
