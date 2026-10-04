@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
-![Progress](https://img.shields.io/badge/Progress-14-20-green) ![Easy](https://img.shields.io/badge/Easy-4-brightgreen) ![Medium](https://img.shields.io/badge/Medium-6-yellow) ![Hard](https://img.shields.io/badge/Hard-4-red)
+![Progress](https://img.shields.io/badge/Progress-15-20-green) ![Easy](https://img.shields.io/badge/Easy-4-brightgreen) ![Medium](https://img.shields.io/badge/Medium-7-yellow) ![Hard](https://img.shields.io/badge/Hard-4-red)
 
-![Python](https://img.shields.io/badge/Python-5-blue) ![Java](https://img.shields.io/badge/Java-6-blue) ![C++](https://img.shields.io/badge/C++-3-blue)
+![Python](https://img.shields.io/badge/Python-5-blue) ![Java](https://img.shields.io/badge/Java-6-blue) ![C++](https://img.shields.io/badge/C++-4-blue)
 
-██████████████░░░░░░ **14/20** problems
+███████████████░░░░░ **15/20** problems
 
 ---
 
@@ -12,6 +12,7 @@
 
 |  #  | Problem | Lang | Solution |
 |----:|---------|------|----------|
+|    2 | 🟡 Add Two Numbers                     | ⚙️ C++      | [add-two-numbers.cpp](2-add-two-numbers/add-two-numbers.cpp) |
 |    9 | 🟢 Palindrome Number                   | ⚙️ C++      | [palindrome-number.cpp](9-palindrome-number/palindrome-number.cpp) |
 |   13 | 🟢 Roman to Integer                    | 🐍 Python   | [roman-to-integer.py](13-roman-to-integer/roman-to-integer.py) |
 | 1617 | 🔴 Stone Game IV                       | 🐍 Python   | [stone-game-iv.py](1617-stone-game-iv/stone-game-iv.py) |
