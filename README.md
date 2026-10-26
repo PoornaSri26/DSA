@@ -1,10 +1,10 @@
 # 🧩 LeetCode Solutions
 
-![Progress](https://img.shields.io/badge/Progress-15-20-green) ![Easy](https://img.shields.io/badge/Easy-4-brightgreen) ![Medium](https://img.shields.io/badge/Medium-7-yellow) ![Hard](https://img.shields.io/badge/Hard-4-red)
+![Progress](https://img.shields.io/badge/Progress-16-20-green) ![Easy](https://img.shields.io/badge/Easy-5-brightgreen) ![Medium](https://img.shields.io/badge/Medium-7-yellow) ![Hard](https://img.shields.io/badge/Hard-4-red)
 
-![C++](https://img.shields.io/badge/C++-4-blue) ![Python](https://img.shields.io/badge/Python-5-blue) ![Java](https://img.shields.io/badge/Java-6-blue)
+![C++](https://img.shields.io/badge/C++-4-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-1-blue) ![Python](https://img.shields.io/badge/Python-5-blue) ![Java](https://img.shields.io/badge/Java-6-blue)
 
-███████████████░░░░░ **15/20** problems
+████████████████░░░░ **16/20** problems
 
 ---
 
@@ -19,6 +19,7 @@
 | 2002 | 🔴 Stone Game VIII                     | 🐍 Python   | [stone-game-viii.py](2002-stone-game-viii/stone-game-viii.py) |
 | 2039 | 🟡 Sum Game                            | 🐍 Python   | [sum-game.py](2039-sum-game/sum-game.py) |
 | 2212 | 🟡 Removing Minimum and Maximum From A | ☕ Java     | [removing-minimum-and-maximum-from-array.java](2212-removing-minimum-and-maximum-from-array/removing-minimum-and-maximum-from-array.java) |
+| 2809 | 🟢 Create Hello World Function         | 📜 JavaScript | [create-hello-world-function.js](2809-create-hello-world-function/create-hello-world-function.js) |
 | 3150 | 🟡 Shortest and Lexicographically Smal | ☕ Java     | [shortest-and-lexicographically-smallest-beautiful-string.java](3150-shortest-and-lexicographically-smallest-beautiful-string/shortest-and-lexicographically-smallest-beautiful-string.java) |
 | 3219 | 🟡 Make Lexicographically Smallest Arr | ☕ Java     | [make-lexicographically-smallest-array-by-swapping-elements.java](3219-make-lexicographically-smallest-array-by-swapping-elements/make-lexicographically-smallest-array-by-swapping-elements.java) |
 | 3236 | 🟢 Smallest Missing Integer Greater Th | 🐍 Python   | [smallest-missing-integer-greater-than-sequential-prefix-sum.py](3236-smallest-missing-integer-greater-than-sequential-prefix-sum/smallest-missing-integer-greater-than-sequential-prefix-sum.py) |
